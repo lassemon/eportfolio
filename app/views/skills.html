@@ -1,0 +1,57 @@
+
+Skills
+
+<ul>
+	<li>
+		<span>Work</span>
+		<div ng-repeat="work in skills.work" class="workContainer">
+			<dt>{{work.role}}</dt>
+			<dd>{{work.from | date:'MMMM yyyy'}} - {{work.to | date:'MMMM yyyy'}}</dd>
+			<dd>{{work.employer}}</dd>
+		</div>
+	</li>
+
+	<li>
+		<span>Education</span>
+		<div ng-repeat="education in skills.education" class="educationContainer">
+			<dt>{{education.line}}</dt>
+			<dd>{{education.from | date:'MMMM yyyy'}} - {{education.to | date:'MMMM yyyy'}}</dd>
+			<dd>{{education.school}}</dd>
+		</div>
+	</li>
+
+	<li>
+		<span>Operating Systems</span>
+		<div ng-repeat="operatingsystem in skills.operatingsystems" class="operatingSystemsContainer">
+			<dt>{{operatingsystem.name}}</dt>
+			<dd>{{operatingsystem.versions.join(", ")}}</dd>
+		</div>
+	</li>
+
+	<li>
+		<span>Languages</span>
+		<ul>
+			<li ng-repeat="language in skills.languages" class="languagesContainer">
+				{{language}}
+			</li>
+		</ul>
+	</li>
+
+	<li>
+		<span>Libraries &amp; Frameworks</span>
+		<ul>
+			<li ng-repeat="framework in skills.frameworks" class="frameworkContainer">
+				{{framework}}
+			</li>
+		</ul>
+	</li>
+
+	<li>
+		<span>Tools &amp; Servers</span>
+		<ul>
+			<li ng-repeat="tool in skills.tools" class="toolsContainer">
+				{{tool}}
+			</li>
+		</ul>
+	</li>
+</ul>

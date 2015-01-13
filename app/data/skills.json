@@ -1,0 +1,87 @@
+{
+    "work":[
+        {
+            "role":"Lead UI Developer",
+            "from":"1359676800000",
+            "to":"1409529600000",
+            "employer": "Tieto Finland"
+        },
+        {
+            "role":"Technical Lead",
+            "from":"1349049600000",
+            "to": "1356998400000",
+            "employer": "Tieto Finland"
+        },
+        {
+            "role":"Software Engineer",
+            "from":"1301616000000",
+            "to": "1346457600000",
+            "employer": "Tieto Finland"
+        },
+        {
+            "role":"Software Engineer Trainee",
+            "from":"1285891200000",
+            "to": "1298937600000",
+            "employer": "Tieto Finland"
+        },
+        {
+            "role":"Software Engineer Trainee",
+            "from":"1270080000000",
+            "to": "1277942400000",
+            "employer": "Tieto Czech"
+        }
+    ],
+    "education":[
+        {
+            "line":"Business Information Systems, Software Engineering",
+            "from": "1188604800000",
+            "to": "1306886400000",
+            "school": "Tampere University of Applied Sciences"
+        }
+    ],
+    "operatingsystems":[
+        {
+            "name":"Windows",
+            "versions":["XP", "Vista", "7"]
+        },
+        {
+            "name":"Linux",
+            "versions":["Ubuntu", "Red Hat"]
+        },
+        {
+            "name":"Virtual",
+            "versions":["VirtualBox"]
+        }
+    ],
+    "languages": [
+        "JavaScript",
+        "JSON",
+        "CSS3",
+        "(X)HTML, HTML5",
+        "XML, XSLT",
+        "AJAX, REST, HTTP",
+        "WebService, SOAP",
+        "PHP",
+        "Java, J2EE",
+        "Qt, QML",
+        "MySQL, PostgreSQL",
+        "C#"
+    ],
+    "frameworks": [
+        "jQuery",
+        "Jasmine",
+        "AngularJS",
+        "html5-boilerplate",
+        "Liferay"
+    ],
+    "tools": [
+        "NPM",
+        "Karma",
+        "Bower",
+        "Protractor",
+        "Tomcat",
+        "Apache",
+        "Eclipse",
+        "Sublime Text 2"
+    ]
+}

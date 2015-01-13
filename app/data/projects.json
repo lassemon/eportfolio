@@ -1,0 +1,47 @@
+[
+    {
+        "name":"ePortfolio",
+        "date":"",
+        "type":"Website",
+        "skill":"Web Development",
+        "description":"This site is created with AngularJS, using design paradigms such as Atomic CSS and Mobile First design. This Angular web-app utilizes libraries such as Bootstrap and html5-boilerplate as well as tools like Karma, Bower, Jasmine and Protractor. Download the source code as .zip by clicking the thumbnail. Installation instructions are inside.",
+        "thumbUrl":"gfx/descImage_ePortfolio.jpg",
+        "linkUrl":""
+    },
+    {
+        "name":"HatsuRebals",
+        "date":"",
+        "type":"Youtube Channel",
+        "skill":"Video Editing, UX Design, Project Management",
+        "description":"HatsuRebals consists of a small group of friends playing computer games. We connect via Skype and play online. At times I record the games and if there is some interesting action, I will edit a short clip or a video story and post it on our Youtube channel. I also maintain the Youtube channel and the HatsuRebals email box.",
+        "thumbUrl":"gfx/descImage_Rebals.jpg",
+        "linkUrl":"https://www.youtube.com/user/hatsurebals/videos"
+    },
+    {
+        "name":"Kebnekaise Trailer",
+        "date":"",
+        "type":"Youtube Video",
+        "skill":"Video Editing, UX Design",
+        "description":"We attempted to climb the North Europes highest mountain, Kebnekaise, with a three-man group in the fall of 2012. With us, we had three GoPro HD Hero 2 Action cameras. I edited a fictional action movie trailer out of the material we recorded on that trip.",
+        "thumbUrl":"gfx/descImage_Kebnekaise.jpg",
+        "linkUrl":"https://www.youtube.com/watch?v=8kJQ9F8_COU"
+    },
+    {
+        "name":"GoPro HD Hero Test Session",
+        "date":"",
+        "type":"Youtube Video",
+        "skill":"Video Editing, UX Design",
+        "description": "Testing of GoPro HD Hero 2 Action camera and new fishing gear. I edited a short \"music video\" out of the recorded material on a sunny day at a finnish lake.",
+        "thumbUrl":"gfx/descImage_HDHeroTest.jpg",
+        "linkUrl":"https://www.youtube.com/watch?v=xx7gPVbO9tA"
+    },
+    {
+        "name":"PC Hankintaopas",
+        "date":"",
+        "type":"PDF Document",
+        "skill":"Project Management",
+        "description":"A project in Tampere University of Applied Sciences. My whole class got an assignment to create a PC buyers guide for regular consumers. I worked as an imaginary Project Manager in this assignment. I divided the class to teams according to their interests and skills and organized the work. I took care of schedules and reacted accordingly if there were any problems or delays. The guide is in finnish.",
+        "thumbUrl":"gfx/descImage_pcGuide.jpg",
+        "linkUrl":"http://viitekehys.net/cv/lassepirinen/pc_hankintaopas_07tiko1.pdf"
+    }
+]

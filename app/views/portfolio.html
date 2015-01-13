@@ -1,0 +1,21 @@
+
+Portfolio
+
+<ul class="thumbs">
+	<li ng-repeat="project in projects">
+		<a ng-href="{{project.linkUrl}}">
+			<img ng-src="{{project.thumbUrl}}"/>
+		</a>
+	</li>
+</ul>
+
+
+<ul class="projects">
+	<li ng-repeat="project in projects">
+		<dt>{{project.name}}</dt>
+		<dd>{{project.date}}</dd>
+		<dd>{{project.type}}</dd>
+		<dd>{{project.skill}}</dd>
+		<dd>{{project.description}}</dd>
+	</li>
+</ul>
